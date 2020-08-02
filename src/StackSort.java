@@ -1,6 +1,6 @@
 import java.util.Stack;
 /**************************************************************
- Author's Panther ID: 3276301
+ Author: Megan Jane Thompson
  Purpose: This program takes in a Stack list of integers and 
           sorts the integers in chronological order so the 
           smallest number is at the top of the Stack.
