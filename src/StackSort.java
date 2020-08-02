@@ -4,8 +4,6 @@ import java.util.Stack;
  Purpose: This program takes in a Stack list of integers and 
           sorts the integers in chronological order so the 
           smallest number is at the top of the Stack.
- Certification: I hereby certify that this work is my own
-   		  and none of it is the work of any other person.
 **************************************************************/
 public class StackSort {
 
